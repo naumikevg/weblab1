@@ -18,7 +18,7 @@ body {
   width: 100%;
   min-width: 320px;
   font-size: 10px;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .header {
@@ -124,9 +124,3 @@ p { margin-bottom: 3px; }
 ul, ol { padding-left: 15px; margin: 5px 0; }
 table { border-collapse: collapse; width: 100%; }
 th, td { border: 1px solid black; padding: 2px; text-align: left; }
-
-
-
-
-
-
