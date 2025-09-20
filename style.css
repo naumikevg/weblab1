@@ -12,7 +12,7 @@ body {
     "two three three five"
     ". six six six";
   grid-template-columns: 1fr 2fr 1fr 1fr;
-  grid-template-rows: minmax(120px, auto) 1fr 1fr minmax(120px, auto);
+  grid-template-rows: 120px 1fr 1fr 120px;
   gap: 3px;
   width: 100%;
   min-width: 320px;
@@ -123,6 +123,7 @@ p { margin-bottom: 3px; }
 ul, ol { padding-left: 15px; margin: 5px 0; }
 table { border-collapse: collapse; width: 100%; }
 th, td { border: 1px solid black; padding: 2px; text-align: left; }
+
 
 
 
